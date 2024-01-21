@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "mcblocks:cobbled_deepslate"
+  },
+  "result": "mcblocks:chiseled_deepslate",
+  "count": 1
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "mcblocks:packed_mud"
+  },
+  "result": "mcblocks:mud_bricks",
+  "count": 1
+}

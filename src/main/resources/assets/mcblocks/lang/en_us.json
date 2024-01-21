@@ -1,0 +1,22 @@
+{
+  "block.mcblocks.amethyst_block": "Amethyst Block",
+  "block.mcblocks.calcite_block": "Calcite",
+  "block.mcblocks.tuff_block": "Tuff",
+  "block.mcblocks.cobbled_deepslate": "Cobbled Deepslate",
+  "block.mcblocks.deepslate_block": "Deepslate",
+  "block.mcblocks.chiseled_deepslate": "Chiseled Deepslate",
+  "block.mcblocks.polished_deepslate": "Polished Deepslate",
+  "block.mcblocks.deepslate_bricks": "Deepslate Bricks",
+  "block.mcblocks.deepslate_tiles": "Deepslate Tiles",
+  "block.mcblocks.cracked_deepslate_bricks": "Cracked Deepslate Bricks",
+  "block.mcblocks.cracked_deepslate_tiles": "Cracked Deepslate Tiles",
+  "block.mcblocks.mud_block": "Mud Block",
+  "block.mcblocks.packed_mud": "Packed Mud",
+  "block.mcblocks.mud_bricks": "Mud Bricks",
+  "block.mcblocks.moss_block": "Moss",
+
+  "item.mcblocks.amethyst_shard": "Amethyst Shard",
+
+  "tooltip.mcblocks.mud_block": "Obtained by right-clicking dirt with clay.",
+  "tooltip.mcblocks.packed_mud": "Obtained by right-clicking a mud block with wheat or crafting."
+}

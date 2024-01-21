@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "minecraft:glass_pane"
+  },
+  "result": "mcblocks:amethyst_shard",
+  "experience": 0.8,
+  "cookingtime": 100
+}
